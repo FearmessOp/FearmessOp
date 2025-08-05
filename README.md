@@ -7,8 +7,18 @@
 
 <!-- Animated Title -->
 <div align="center" style="position: relative; display: inline-block;">
+<img src="https://media1.tenor.com/m/Dh8D_JDg_n0AAAAC/kaoruko-waguri-waguri-kaoruko.gif" width="50" style="position: absolute; top: 50%; right: 100px; transform: translateY(-50%); animation: fadeInOut 31s infinite;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=800&height=120&lines=Hi,+I'am+Fearmess!;🚀+Full-Stack+Developer;💻+I+Love+Coding❤️;🎨+UI%2FUX+Enthusiast;⚡+Tech+Innovator" />
+<img src="https://media1.tenor.com/m/Dh8D_JDg_n0AAAAC/kaoruko-waguri-waguri-kaoruko.gif" width="50" style="position: absolute; top: 50%; left: 85px; transform: translateY(-50%); animation: fadeInOut 31s infinite;">
+</div>
 
+<style>
+@keyframes fadeInOut {
+  0%, 1.613% { opacity: 0; }
+  1.614%, 20.968% { opacity: 1; }
+  20.969%, 100% { opacity: 0; }
+}
+</style>
 <img src="https://media1.tenor.com/m/7ddM67UZbgYAAAAC/kaoruko-waguri-waguri-kaoruko.gif" width="70%" alt="Waguri Kaoruko" />
 
 <!-- Profile Views & Followers -->
@@ -20,28 +30,28 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 About Me
+## 🌟 Hakkımda
 
 <table>
 <tr>
 <td width="50%">
 
-### 💫 Personal Information
-- 🎯 **Focus:** Modern web technologies and user experience
-- 🌱 **Learning:** AI/ML, PHP
-- 💡 **Interests:** Open Source, Game Development, UI/UX Design
-- 🎮 **Hobbies:** Anime, Gaming, Music Production
-- 📍 **Location:** Turkey
-- 💬 **Languages:** Turkish, English, 日本語 (Learning)
+### 💫 Kişisel Bilgiler
+- 🎯 **Odak:** Modern web teknolojileri ve kullanıcı deneyimi
+- 🌱 **Öğreniyorum:** AI/ML, PHP
+- 💡 **İlgi Alanları:** Open Source, Game Development, UI/UX Design
+- 🎮 **Hobi:** Anime, Gaming, Music Production
+- 📍 **Konum:** Türkiye
+- 💬 **Diller:** Türkçe, English, 日本語 (Öğreniyorum)
 
 </td>
 <td width="50%">
 
-### 🎯 Goals 2024
-- [ ] 🚀 Contribute to 10+ Open Source projects
-- [ ] 📱 Mobile app development
-- [ ] 🤖 AI integrated projects
-- [ ] 🎨 Launch my own AI website
+### 🎯 Hedefler 2024
+- [ ] 🚀 10+ Open Source projeye katkı
+- [ ] 📱 Mobile app geliştirme
+- [ ] 🤖 AI entegrasyonlu projeler
+- [ ] 🎨 Kendi AI sitemi açmak
 
 </td>
 </tr>
@@ -50,7 +60,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Social Media & Contact
+## 🌐 Sosyal Medya & İletişim
 
 <div align="center">
 <a href="https://www.instagram.com/alikilic050/" target="_blank">
@@ -71,9 +81,9 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack
+## 💻 Teknoloji Yığını
 
-### 🚀 Frontend Technologies
+### 🚀 Frontend Teknolojileri
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vue,svelte,tailwind,sass" />
     <br/>
@@ -98,7 +108,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 <table>
