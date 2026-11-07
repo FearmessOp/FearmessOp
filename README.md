@@ -22,4 +22,4 @@ property is tested, not asserted. 72 acceptance scenarios running inside QEMU,
 Interests: Node.js internals, HTTP standards, OS design, making tests prove what
 documentation claims.
 
-📫 `hello@agentsig.dev` · [npm](https://www.npmjs.com/~fearmessop)
+[npm](https://www.npmjs.com/~fearmessop)
